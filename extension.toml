@@ -1,0 +1,7 @@
+id = "meu-material-icons"
+name = "Meu Material Icons"
+version = "0.1.0"
+schema_version = 1
+authors = ["Cleidy cleidydev@gmail.com"]
+description = "Material-style icons para o Zed"
+repository = "https://github.com/cleidyDev/zed-materia-theme"
